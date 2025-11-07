@@ -106,7 +106,7 @@ npm start    # si défini (ex: live-server / http-server wrapper)
 MIT (ajouter `LICENSE` si absent).
 
 ## 📫 Contact
-Rachid Chon — `cgpt1euro@rchon-dev.fr`
+Rachid Chon — `rchon@rchon-dev.fr`
 
 ---
 
